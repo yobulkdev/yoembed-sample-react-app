@@ -9,8 +9,9 @@ function App() {
       <br />
       <YoButton
         btnText="My upload"
-        templateId={"638b13b2bc7dc31149b40b3b"}
-        yoHostUrl={"http://localhost:3006"}
+        /*  templateId={"638b13b2bc7dc31149b40b3b"} */
+        importerId={"63d1eecfb9086d1c4170a1d8"}
+        yoHostUrl={"http://localhost:3000"}
       />
     </div>
   );
