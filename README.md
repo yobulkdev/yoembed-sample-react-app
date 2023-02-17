@@ -1,4 +1,4 @@
-## saascsvbutton
+## yoembed-sample-react-app
 
 #### This is a sample application which simulates an embeddable CSV import button.
 #### A SaaS application has to do the following things to embedd a CSV button in their application.
